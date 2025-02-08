@@ -25,11 +25,8 @@ const App = () => {
       <Company />
       <Status />  
       <CourseOutlet />
-    <div className="realtive">
-        <Instructor />
-      <img src="/CourseCategory/computersci.jpg" alt="shared img" className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2" />
-        <JoinCommunity />
-    </div>
+      <Instructor />
+      <JoinCommunity />
       <CourseCategory />
       {/* <UpcomingWorkshop /> */}
       <Review />
