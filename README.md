@@ -13,4 +13,3 @@ Run the project locally
   npm run dev
 ```
     
-Have a nice day with ZenUI Library. Visit our website https://zenui.net to get more Components & Blocks and customize your project.
